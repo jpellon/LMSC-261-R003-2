@@ -1,0 +1,11 @@
+Profile.html
+
+Question 1: The body selector uses the background-color property with the hex color #0f172a to set the page background.
+Question 2: The job title is controlled by the .title class selector. The text color is changed using the color property, which is set to #38bdf8.
+Question 3: When hovering, the button background changes to #0284c7 and the text changes to #ffffff.
+
+Event.html
+
+Question 1: The border is created using the border property: 2px solid #ec4899. The color #ec4899 is a bright pink color.
+Question 2: The heading size is controlled by the font-size property, which is set to 1.8rem.
+QUestion 3: The border-radius property is used to round the corners, and it is set to 20px.
